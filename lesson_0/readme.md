@@ -8,6 +8,40 @@
 Всем привет! Это самый лёгкий, бесплатный и подробный курс по языку программирования C++. Если вы давно хотели начать его изучать - сейчас самое время.
 
 ---
+## 📋 План урока
+
+1. Что такое C++ и зачем он нужен
+2. Где применяется C++ (игры, ОС, базы данных)
+3. Особенности языка: скорость и ручное управление памятью
+4. Установка VS Code на Linux
+5. Необходимые расширения для работы с C++
+6. Подключение библиотеки `#include <iostream>`
+7. Структура функции `main()`
+8. Вывод текста в консоль через `std::cout`
+9. Разбор синтаксиса: `std::`, оператор `<<`, точка с запятой
+10. Код возврата `return 0`
+11. Итог урока
+
+
+---
+
+## 📋 План видео 
+
+[Курс по C++ с нуля до разработчика \ Урок 0 - Введение](https://youtu.be/QXtRKCOrfVg?si=asxMqIfyvOxrrR3L)
+
+- [00:00 Начало](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=0)
+- [00:38 Что такое C++ и зачем он нужен](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=38)
+- [01:09 Где применяется C++ (игры, ОС, базы данных)](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=69)
+- [01:55 Особенности языка: скорость и ручное управление памятью](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=115)
+- [02:40 Установка VS Code на Linux](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=160)
+- [05:29 Необходимые расширения для работы с C++](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=329)
+- [07:00 Подключение библиотеки `#include <iostream>`](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=420)
+- [09:33 Структура функции `main()`, вывод текста в консоль через `std::cout`](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=573)
+- [12:32 Разбор синтаксиса: `std::`, оператор `<<`, точка с запятой](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=752)
+- [15:52 Код возврата `return 0`](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=952)
+- [16:47 Итог урока](https://youtu.be/QXtRKCOrfVg?si=9hE9eLinoEp7PY5C&t=1007)
+
+---
 
 ## 📌 Что такое C++ и зачем он нужен?
 
@@ -129,5 +163,4 @@ int main()
 
 Если было интересно - поддержите подпиской и лайком. Увидимся на следующем уроке! 👋
 
----
 
