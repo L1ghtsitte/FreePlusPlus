@@ -160,10 +160,10 @@ int main()
 
 Если что-то осталось непонятным - задавайте вопросы в Telegram:
 
-- ![[icons/normal/Telegram.svg |20]] Канал: [@hellsfrik](https://t.me/hellsfrik)
-- ![[icons/normal/Telegram.svg |20]]  Чат: [@programmer_chatik](https://t.me/programmer_chatik)
--  ![[icons/normal/Discord.svg |20]] Discord сервер: [humanistik crew](https://discord.gg/rcPgU8GGFC)
--  ![[icons/normal/GitHub.svg |20]] GitHub: [FreePlusPlus](https://github.com/L1ghtsitte/FreePlusPlus)
+- <img src="icons/normal/Telegram.svg" width="20" height="20"> Канал: <a href="https://t.me/hellsfrik">@hellsfrik</a>
+- <img src="icons/normal/Telegram.svg" width="20" height="20"> Чат: <a href="https://t.me/programmer_chatik">@programmer_chatik</a>
+- <img src="icons/normal/Discord.svg" width="20" height="20"> Discord сервер: <a href="https://discord.gg/rcPgU8GGFC">humanistik crew</a>
+- <img src="icons/normal/GitHub.svg" width="20" height="20"> GitHub: <a href="https://github.com/L1ghtsitte/FreePlusPlus">FreePlusPlus</a>
 
 Если было интересно - поддержите подпиской и лайком. Увидимся на следующем уроке! 👋
 
