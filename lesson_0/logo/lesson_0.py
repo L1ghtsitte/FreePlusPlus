@@ -132,6 +132,6 @@ for (x1,y1,x2,y2) in [
 ]:
     draw.rectangle([x1,y1,x2,y2], fill=GREEN)
 
-out = "/mnt/user-data/outputs/lesson0.png"
+out = "/CPP/lesson_0/lesson_0.png"
 img.save(out, "PNG")
 print("Done:", out)
